@@ -2,6 +2,7 @@
 <br>
 This is a Wordpress website used for a Wedding.
 <br>
+![Target Render]("images/prototype.jpg")
 Functionality should be:
 <br> 
 1) Allow to input Guest data 
