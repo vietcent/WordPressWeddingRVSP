@@ -1,7 +1,4 @@
-# CIS425WordPress
-This is a project with CIS 425 to build a RVSP system using Wordpress
-
-This repo is contains the code for the Wordpress site due for extra credit from CIS 425
+#WordPressWeddingRVSP
 
 This is a Wordpress website used for a Wedding.
 
